@@ -4,6 +4,9 @@ BLUETOOTH STM32 TRANSCEIVERS TFT TOUCH ILI9341 SPI TOUCH STM32F103 STM32F401
 ![bluetooth stm32 HC05](https://github.com/offpic/BLUETOOTH-STM32-TRANSCEIVERS-TFT-TOUCH-ILI9341-SPI-TOUCH-STM32F103-STM32F401-/assets/31142397/52a56dbf-b7dd-4cd4-aa1b-3117369c2f20)
 
 *****HOW MASTER SLAVE HC05*****
+
+Then we need to run the Serial Monitor and there select “Both NL and CR”, as well as, “38400 baud” rate which is the default baud rate of the Bluetooth module. Now we are ready to send commands and their format is as following.
+
 ![73cf26c8b32818b6254a55340260e1c5](https://github.com/offpic/BLUETOOTH-STM32-TRANSCEIVERS-TFT-TOUCH-ILI9341-SPI-TOUCH-STM32F103-STM32F401-/assets/31142397/5200497d-3243-4722-aabd-61af0c3fa76e)
 
 
