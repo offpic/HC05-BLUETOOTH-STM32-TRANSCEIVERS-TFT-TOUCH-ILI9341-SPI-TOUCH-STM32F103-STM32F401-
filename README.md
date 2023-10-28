@@ -8,7 +8,7 @@ BLUETOOTH STM32 TRANSCEIVERS TFT TOUCH ILI9341 SPI TOUCH STM32F103 STM32F401
 
 
 
-*Master Configuration*
+**Master Configuration**
 
 The required AT commands to set the configuration:
 
@@ -24,7 +24,7 @@ The required AT commands to set the configuration:
 
 
 
-*Slave Configuration*
+**Slave Configuration**
 
 The required AT commands to set the configuration
 
