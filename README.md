@@ -18,7 +18,7 @@ The required AT commands to set the configuration:
 
 3- AT+CMODE=0 (To connect the module to the specified Bluetooth address and this Bluetooth address can be specified by the binding command)
 
-4- AT+BIND=xxxx,xx,xxxxxx (Now, type AT+BIND=98d3,34,906554 obviously with your respective address to the slave. Note the commas instead of colons given by the slave module.
+4- AT+BIND=xxxx,xx,xxxxxx (Now, type AT+BIND=98d3,31,3069b0 obviously with your respective address to the slave. Note the commas instead of colons given by the slave module.
 
 5- AT+UART=115200,0,0 (To fix the baud rate at 115200)
 
