@@ -22,6 +22,8 @@ The required AT commands to set the configuration:
 
 5- AT+UART=115200,0,0 (To fix the baud rate at 115200)
 
+![Master-Configuration-HC-05-Bluetooth-Module-Arduino](https://github.com/offpic/BLUETOOTH-STM32-TRANSCEIVERS-TFT-TOUCH-ILI9341-SPI-TOUCH-STM32F103-STM32F401-/assets/31142397/8b745a0e-7ceb-48e4-92c8-992e5d74c8ed)
+
 
 
 **Slave Configuration**
@@ -35,5 +37,7 @@ The required AT commands to set the configuration
 3- AT+ADDR (To get the address of this HC-05, remember to jot the address down as it will be used during master configuration)
 
 4- AT+UART=115200,0,0 (To fix the baud rate at 115200)
+
+![Slave-Configuration-HC-05-Bluetooth-Module-Arduino](https://github.com/offpic/BLUETOOTH-STM32-TRANSCEIVERS-TFT-TOUCH-ILI9341-SPI-TOUCH-STM32F103-STM32F401-/assets/31142397/be9d2aac-3492-49cf-b0b1-85ee51dd6c2c)
 
 
