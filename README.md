@@ -6,7 +6,9 @@ BLUETOOTH STM32 TRANSCEIVERS TFT TOUCH ILI9341 SPI TOUCH STM32F103 STM32F401
 *****HOW MASTER SLAVE HC05*****
 ![73cf26c8b32818b6254a55340260e1c5](https://github.com/offpic/BLUETOOTH-STM32-TRANSCEIVERS-TFT-TOUCH-ILI9341-SPI-TOUCH-STM32F103-STM32F401-/assets/31142397/d9367ecc-1661-4cdb-b48f-b039147d6c8d)
 
-Master Configuration:
+
+
+*Master Configuration*
 
 The required AT commands to set the configuration:
 
@@ -20,7 +22,9 @@ The required AT commands to set the configuration:
 
 5- AT+UART=115200,0,0 (To fix the baud rate at 115200)
 
-Slave Configuration:
+
+
+*Slave Configuration*
 
 The required AT commands to set the configuration
 
